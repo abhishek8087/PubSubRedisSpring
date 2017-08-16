@@ -1,0 +1,4 @@
+com\redd\AppConfig.class
+com\redd\RedisPublisherImpl.class
+com\redd\RedisMessageListener.class
+com\redd\RedisPubSubStarter.class
